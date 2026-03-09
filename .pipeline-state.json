@@ -1,0 +1,49 @@
+{
+  "projectDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/royal-fades-app-02fbd94b",
+  "orderId": "a4196593-484c-4678-8805-4c9d40d6119e",
+  "input": {
+    "app_name": "royal-fades-app",
+    "features": [
+      "booking",
+      "walk-in-queue",
+      "client-crm",
+      "sms-reminders",
+      "loyalty",
+      "analytics-full",
+      "commission-tracking",
+      "payments"
+    ],
+    "business_info": {
+      "name": "Royal Fades",
+      "address": "Houston, TX",
+      "barber_count": 8,
+      "booking_system": "Vagaro"
+    },
+    "message": "Building your project plan for Royal Fades — this covers the full scope: booking engine, walk-in queue, commission + booth rent tracking, SMS reminders, digital loyalty, and analytics. Give me a moment...",
+    "stop_after": "prd"
+  },
+  "completedPhases": [
+    "init",
+    "prd",
+    "design",
+    "database",
+    "backend",
+    "frontend",
+    "integrate",
+    "test-api",
+    "test-browser"
+  ],
+  "phaseResults": [
+    "Setting up your project: Scaffolded 9 files",
+    "Generating your requirements document: Generated PRD: royal-fades-app_PRD_260309.md (11801 chars). Sent to client for review.",
+    "Designing your pages: Generated 2 HTML designs: User App, Admin Dashboard",
+    "Setting up your data storage: Generated 11 database files (entities + migration)",
+    "Building the backend: Generated 10 backend files (controllers, services, DTOs)",
+    "Building the user interface: Generated 8 frontend files (pages, components, hooks)",
+    "Wiring frontend to backend APIs: Integration included in frontend build",
+    "Running API tests: API tests skipped (test infrastructure pending)",
+    "Running browser QA tests: Browser tests skipped (test infrastructure pending)"
+  ],
+  "createdAt": "2026-03-09T14:54:41.851Z",
+  "updatedAt": "2026-03-09T15:00:20.319Z"
+}

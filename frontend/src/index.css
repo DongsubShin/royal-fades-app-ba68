@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #ED1C24;
+  --color-secondary: #1A1A1A;
+  --color-accent: #D4AF37; /* Gold for Royal theme */
+}
+
+@theme {
+  --color-brand-red: var(--color-primary);
+  --color-brand-black: var(--color-secondary);
+  --color-brand-gold: var(--color-accent);
+}
+
+body {
+  @apply bg-brand-black text-white antialiased;
+}

@@ -1,0 +1,23 @@
+{
+  "projectId": "ac3bfabf",
+  "appName": "royal-fades-app",
+  "businessName": "Royal Fades",
+  "features": [
+    "booking",
+    "walk-in-queue",
+    "client-crm",
+    "sms-reminders",
+    "loyalty",
+    "analytics-full",
+    "commission-tracking",
+    "payments"
+  ],
+  "businessInfo": {
+    "name": "Royal Fades",
+    "address": "Houston, TX",
+    "barber_count": 8,
+    "booking_system": "Vagaro"
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/royal-fades-app-02fbd94b",
+  "createdAt": "2026-03-09T14:55:06.327Z"
+}
